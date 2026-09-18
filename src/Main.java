@@ -1,4 +1,4 @@
-public class Task01 {
+public class Main {
     public void main() {
         // intOperandA, intOperandB, intSum, intProduct, intDifference, intQuotient, intModulo
 
@@ -56,7 +56,5 @@ public class Task01 {
         System.out.println("I wear a shoe size of " + myShoeSize);
         System.out.println("I was born in the month of " + myBirthMonth);
         System.out.println("Hi, my full name is " + myFullName);
-
-
     }
 }
